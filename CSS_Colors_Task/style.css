@@ -1,0 +1,114 @@
+table{
+    width: 100%;
+    text-align: center;
+}
+
+#rgba1{
+    color: #323f4b;
+    font-size: 18px;
+    background-color: rgba(0%,100%,0%,1.0);
+}
+#hexa1{
+    color: #ffffff;
+    font-size: 18px;
+    background-color: #323f4b80;
+}
+
+#rgba2{
+    color: #323f4b;
+    font-size: 18px;
+    background-color: rgba(50%,50%,90%,0.6);
+}
+#hexa2{
+    color: #323f4b;
+    font-size: 18px;
+    background-color: #f0bb0dff;
+}
+
+#rgba3{
+    color: #ffffff;
+    font-size: 18px;
+    background-color: rgba(40%,40%,30%,1.0);
+}
+#hexa3{
+    color: #ffffff;
+    font-size: 18px;
+    background-color: #c51bab80;
+}
+
+#rgba4{
+    color: #323f4b;
+    font-size: 18px;
+    background-color: rgba(193, 87, 96, 0.6);
+}
+#hexa4{
+    color: #323f4b;
+    font-size: 18px;
+    background-color: #4df2bb80;
+}
+
+#rgba5{
+    color: #323f4b;
+    font-size: 18px;
+    background-color: rgb(236, 148, 49);
+}
+#hexa5{
+    color: #ffffff;
+    font-size: 18px;
+    background-color: #1808f980;
+}
+
+#rgba6{
+    color: #323f4b;
+    font-size: 18px;
+    background-color: rgba(39, 246, 118, 0.6);
+}
+#hexa6{
+    color: #ffffff;
+    font-size: 18px;
+    background-color: #d0257880;
+}
+
+#rgba7{
+    color: #323f4b;
+    font-size: 18px;
+    background-color: rgb(142, 148, 21);
+}
+#hexa7{
+    color: #ffffff;
+    font-size: 18px;
+    background-color: #4f261486;
+}
+
+#rgba8{
+    color: #323f4b;
+    font-size: 18px;
+    background-color: rgba(26, 26, 69, 0.6);
+}
+#hexa8{
+    color: #323f4b;
+    font-size: 18px;
+    background-color: #bd48dddb;
+}
+
+#rgba9{
+    color: #323f4b;
+    font-size: 18px;
+    background-color: rgb(237, 81, 81);
+}
+#hexa9{
+    color: #ffffff;
+    font-size: 18px;
+    background-color: #b773e4a3;
+}
+
+#rgba10{
+    color: #323f4b;
+    font-size: 18px;
+    background-color: rgba(175, 175, 189, 0.6);
+}
+#hexa10{
+    color: #323f4b;
+    font-size: 18px;
+    background-color: #d65656;
+}
