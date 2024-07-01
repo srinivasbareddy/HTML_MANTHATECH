@@ -1,0 +1,44 @@
+h1{
+    text-align: center;
+}
+.hsla1{
+    font-size: 24px;
+    color: #323f4b;
+    text-align: center;
+    background-color: hsl(60, 100%, 30%);
+}
+
+.hsla2{
+    font-size: 24px;
+    color: aliceblue;
+    text-align: center;
+    background-color: hsla(173, 100%, 30%, 0.8);
+}
+
+.hsla3{
+    font-size: 24px;
+    color: aliceblue;
+    text-align: center;
+    background-color: hsl(265, 66%, 69%);
+}
+
+.hsla4{
+    font-size: 24px;
+    color: #323f4b;
+    text-align: center;
+    background-color: hsla(327, 88%, 73%, 0.799);
+}
+
+.hsla5{
+    font-size: 24px;
+    color: aliceblue;
+    text-align: center;
+    background-color: hsl(341, 95%, 62%);
+}
+
+.hsla6{
+    font-size: 24px;
+    color: #323f4b;
+    text-align: center;
+    background-color: hsla(30, 91%, 58%, 0.8);
+}

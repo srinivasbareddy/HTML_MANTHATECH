@@ -1,0 +1,73 @@
+h1{
+    text-align: center;
+}
+
+div{
+    text-align: center;
+}
+
+.fonts1{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: 500;
+    font-variant: normal;
+    font-size: 24px;
+    font-stretch: normal;
+    font-kerning: normal;
+    background-color: aqua;
+}
+
+.fonts2{
+    font-family: "Roboto";
+    font-style:italic;
+    font-weight: 500;
+    font-variant: small-caps;
+    font-size: 24px;
+    font-stretch: condensed;
+    font-kerning: auto;
+    background-color: chartreuse;
+}
+
+.fonts3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+    font-weight: 500;
+    font-variant: inherit;
+    font-size: 24px;
+    font-stretch: expanded;
+    font-kerning: normal;
+    background-color: aqua;
+}
+
+.fonts4{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: initial;
+    font-weight: 500;
+    font-variant: normal;
+    font-size: 24px;
+    font-stretch: narrower;
+    font-kerning: unset;
+    background-color: chartreuse;
+}
+
+.fonts5{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-variant: small-caps;
+    font-size: 24px;
+    font-stretch: extra-expanded;
+    font-kerning: none;
+    background-color: aqua;
+}
+
+.fonts6{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style:oblique;
+    font-weight: 500;
+    font-variant: initial;
+    font-size: 24px;
+    font-stretch: wider;
+    font-kerning: auto;
+    background-color: chartreuse;
+}
