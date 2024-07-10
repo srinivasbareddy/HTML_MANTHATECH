@@ -1,5 +1,5 @@
 
-/* #p1{
+#p1{
     font-size: 2em;
     color: aliceblue;
     background-color: hsla(0, 89%, 0%, 1.0);
@@ -15,24 +15,40 @@
     font-stretch: condensed;
     margin: -15px;
     margin-left: 200px;
-} */
+}
 
-/* #div1{
+#div1{
     width: 25%;
     height: 200px;
     float: left;
     background-color: rgb(255, 0, 0);
-} */
+}
 
-/* #div2{
+#div2{
     border: solid black 1px;
     background-color: aqua;
     margin-inline: 35px;
-} */
+}
 
-/* #div3{
+#div3{
     width: 25%;
     height: 200px;
     float: left;
     background-color: rgb(255, 0, 0);
+}
+
+h1{
+    font-size: 250px;
+    text-align: center;
+    background: url("https://t3.ftcdn.net/jpg/00/42/09/98/360_F_42099891_6Sz9g70EoF2AQhogDZiFE9UQ2ncan1Pk.jpg");
+    background-clip: text;
+    background-size: contain;
+    color: transparent;
+    animation: move 20s infinite;
+}
+
+/* @keyframes move{
+    100%{
+        background-position-x: 100%;
+    }
 } */

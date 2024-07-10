@@ -1,0 +1,17 @@
+body{
+    background: url("https://t4.ftcdn.net/jpg/06/23/51/33/360_F_623513339_6aCi0QCatsTlrPiRibFxCTMusumNiCf0.jpg") no-repeat fixed center;
+}
+
+h1{
+    text-align: center;
+    font-size: 40px;
+}
+
+h2{
+    text-align: center;
+    font-size: 200px;
+    background: url("https://t3.ftcdn.net/jpg/00/42/09/98/360_F_42099891_6Sz9g70EoF2AQhogDZiFE9UQ2ncan1Pk.jpg");
+    background-clip: text;
+    background-size: contain;
+    color: transparent;
+}
