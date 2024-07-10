@@ -1,0 +1,58 @@
+h1{
+    text-align: center;
+    font-size: 30px;
+    padding-bottom: 10px;
+}
+
+.div1{
+    background-color: aqua;
+    width: 25%;
+    height: 200px;
+    text-align: center;
+    margin: 10px;
+}
+
+.div2{
+    background-color:blueviolet;
+    width: 25%;
+    height: 200px;
+    text-align: center;
+    margin: 10px;
+    display: inline-block;
+}
+
+.div3{
+    background-color: chartreuse;
+    width: 25%;
+    height: 200px;
+    text-align: center;
+    margin: 10px;
+    display: inline-block;
+}
+
+.div4{
+    background-color: chocolate;
+    width: 25%;
+    height: 200px;
+    text-align: center;
+    margin: 10px;
+    display: inline-block;
+}
+
+.div5{
+    background-color: crimson;
+    width: 25%;
+    height: 200px;
+    text-align: center;
+    margin: 10px;
+    display: inline-block;
+}
+
+.div6{
+    background-color: darkcyan;
+    width: 25%;
+    height: 200px;
+    text-align: center;
+    margin: 10px;
+    display: inline-block;
+}
