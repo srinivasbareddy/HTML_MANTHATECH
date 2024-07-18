@@ -1,0 +1,13 @@
+body{
+    scroll-behavior: smooth;
+}
+
+#section1{
+    height: 800px;
+    background-color: aqua;
+}
+
+#section2{
+    height: 600px;
+    background-color: chartreuse;
+}
