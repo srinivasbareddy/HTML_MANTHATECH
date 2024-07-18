@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+}
+
+.scroll{
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+    margin-left: 50px;
+    overflow: scroll;
+}
+
+.hidden{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    margin-left: 50px;
+    overflow: hidden;
+}
+
+.auto{
+    background-color: chartreuse;
+    width: 100px;
+    height: 100px;
+    margin-left: 50px;
+    overflow: auto;
+}
+
+.visible{
+    background-color: rgb(100, 171, 234);
+    width: 100px;
+    height: 100px;
+    margin-left: 50px;
+    overflow: visible;
+}
