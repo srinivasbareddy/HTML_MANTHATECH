@@ -1,0 +1,74 @@
+*{
+    margin: 30px;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+.dotted{
+    height: 30px;
+    text-align: center;
+    color: green;
+    outline: 5px dotted blue;
+}
+
+.dashed{
+    height: 30px;
+    text-align: center;
+    color: green;
+    outline: 5px dashed blue;
+}
+
+.solid{
+    height: 30px;
+    text-align: center;
+    color: green;
+    outline: 5px solid blue;
+}
+
+.double{
+    height: 30px;
+    text-align: center;
+    color: green;
+    outline: 5px double blue;
+}
+
+.groove{
+    height: 30px;
+    text-align: center;
+    color: green;
+    outline: 5px groove blue;
+}
+
+.ridge{
+    height: 30px;
+    text-align: center;
+    color: green;
+    outline: 5px ridge blue;
+}
+
+.inset{
+    height: 30px;
+    text-align: center;
+    color: green;
+    outline: 5px inset blue;
+}
+
+.outset{
+    height: 30px;
+    text-align: center;
+    color: green;
+    outline: 5px outset blue;
+}
+
+.hidden{
+    height: 30px;
+    text-align: center;
+    color: green;
+    outline: 5px hidden blue;
+}
