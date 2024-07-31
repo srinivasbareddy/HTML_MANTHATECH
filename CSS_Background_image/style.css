@@ -1,0 +1,8 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    color: aqua;
+    background-image: url("https://www.monstertreeservice.com/cms/thumbnails/24/1080x540/images/articles/GettyImages-476116580.jpg");
+    background-size: cover;
+    height: 100vh;
+}
