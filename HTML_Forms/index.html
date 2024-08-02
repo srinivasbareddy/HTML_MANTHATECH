@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="container">
+        <h1>User Details</h1>
+        <form>
+            <div class="mb-3">
+                <label for="name">Name</label>
+                <input type="text" id="name" placeholder="Enter your full name"/>
+            </div>
+
+            <div class="mb-3">
+                <label for="email">Email</label>
+                <input type="text" id="email" placeholder="Enter your Email"/>
+            </div>
+
+            <div class="mb-3">
+                <label for="password">Password</label>
+                <input type="password" id="password" placeholder="Enter your password"/>
+            </div>
+
+            <div class="mb-3">
+                <label for="status">Working Status</label>
+                <select>
+                    <option value="Active">Active</option>
+                    <option value="Inactive">Inactive</option>
+                </select>
+            </div>
+            <div class="mb-3">
+                <h6 class="gender-heading">Gender</h6>
+                <input type="radio" id="genderMale" value="Male" name="gender"/>
+                <label for="male">Male</label>
+
+                <input type="radio" id="genderFemale" value="Female" name="gender"/>
+                <label for="Female">Female</label>
+            </div>
+            <div class="mb-3">
+                <h6>Address</h6>
+                <textarea></textarea>
+            </div>
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+    </div>
+</body>
+</html>
